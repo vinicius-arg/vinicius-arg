@@ -1,4 +1,4 @@
-## Salve, salve, me chamo Vinícius 👋
+## Oi, me chamo Vinícius 👋
 ### Bem-vindo ao meu perfil GitHub! 
 
 - 📚 Cursando Engenharia de Computação na Universidade Federal de Sergipe
