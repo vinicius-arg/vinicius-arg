@@ -1,7 +1,7 @@
 ## Oi, me chamo Vinícius 👋
 ### Bem-vindo ao meu perfil GitHub! 
 
-- 📚 Cursando Engenharia de Computação na Universidade Federal de Sergipe
+- 📚 Cursando Engenharia de Computação na Universidade Federal de Sergipe (1° Período)
 - 🌱 Atualmente estou estudando Desenvolvimento Web
 - 🚀 Busco aprendizado e experiência com pequenos projetos que comito periodicamente neste perfil, não deixe de conferir =)
 - 🌎 São Cristóvão, Sergipe, Brasil
