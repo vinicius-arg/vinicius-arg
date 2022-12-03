@@ -1,10 +1,12 @@
-## Oi!! Me chamo Vinícius
-### Seja bem-vindo ao meu GitHub! 
+## Oi, me chamo Vinícius :))
+### Seja bem-vind@ ao meu GitHub!! 🤗🤝
 
-- 📚 Cursando Engenharia de Computação na Universidade Federal de Sergipe (1° Período)
-- 🌱 Atualmente estou estudando Desenvolvimento Web
-- 🚀 Busco aprendizado e experiência com pequenos projetos que comito periodicamente neste perfil, não deixe de conferir =)
-- 🌎 São Cristóvão, Sergipe, Brasil
+<div>
+  <p>👨‍🎓💻 Atualmente curso <em><strong>Engenharia de Computação</strong></em> na Universidade Federal de Sergipe e estou no <em><strong>Segundo Período</strong></em></p>
+  <p>🪐 Autodidata em <em><strong>Desenvolvimento Web</strong></em> e aspirante ao título de <em>Desenvolvedor Full Stack</em> (tá quase)</p>
+  <p>📚☕️ Aprimoro minhas habilidades por meio da realização de projetos que comito periodicamente neste perfil. Não deixe de conferir meus repositórios e principalmente os <em><strong>projetos em destaque</strong></em> logo abaixo!</p>
+  <p>🏡 Reside em <em>São Cristóvão, Sergipe, Brasil</em></p>
+</div>
 
 ##
 
@@ -12,7 +14,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jvinicius-arg&show_icons=true&theme=midnight-purple&hide_border=true" width="50%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvinicius-arg&layout=compact&theme=midnight-purple&hide_border=true" width="49%">
 </div>
+
 <br>
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50px" />
@@ -21,7 +25,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="50px" />
 </div>
+
 <br>
+
 <div>
   <a href="mailto:j.vinicius.arg@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
