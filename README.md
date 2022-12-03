@@ -5,25 +5,25 @@
   <p>👨‍🎓💻 Atualmente curso <em><strong>Engenharia de Computação</strong></em> na Universidade Federal de Sergipe e estou no <em><strong>Segundo Período</strong></em></p>
   <p>🪐 Autodidata em <em><strong>Desenvolvimento Web</strong></em> e aspirante ao título de <em>Desenvolvedor Full Stack</em> (tá quase)</p>
   <p>📚☕️ Aprimoro minhas habilidades por meio da realização de projetos que comito periodicamente neste perfil. Não deixe de conferir meus repositórios e principalmente os <em><strong>projetos em destaque</strong></em> logo abaixo!</p>
-  <p>🏡 Reside em <em>São Cristóvão, Sergipe, Brasil</em></p>
+  <p>🏡 Resido em <em>São Cristóvão, Sergipe, Brasil</em></p>
 </div>
 
 ##
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jvinicius-arg&show_icons=true&theme=midnight-purple&hide_border=true" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvinicius-arg&layout=compact&theme=midnight-purple&hide_border=true" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=jvinicius-arg&show_icons=true&theme=midnight-purple&hide_border=true" width="505px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvinicius-arg&layout=compact&theme=midnight-purple&hide_border=true" width="500px">
 </div>
 
 <br>
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="45px" />
 </div>
 
 <br>
