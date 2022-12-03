@@ -15,7 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvinicius-arg&layout=compact&theme=midnight-purple&hide_border=true" width="400px">
 </div>
 
-<br>
+###### Hard Skills
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="45px" />
@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="45px" />
 </div>
 
-<br>
+###### Contato
 
 <div>
   <a href="mailto:j.vinicius.arg@gmail.com" target="_blank">
