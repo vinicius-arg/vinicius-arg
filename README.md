@@ -5,7 +5,6 @@
   <p>👨‍🎓💻 Atualmente curso <em><strong>Engenharia de Computação</strong></em> na Universidade Federal de Sergipe</p>
   <p>🪐 Autodidata em <em><strong>Desenvolvimento Web</strong></em> e aspirante ao título de <em>Desenvolvedor Full Stack</em> (tá quase)</p>
   <p>📚☕️ Aprimoro minhas habilidades por meio da realização de projetos que comito periodicamente neste perfil. Não deixe de conferir meus repositórios e principalmente os <em><strong>projetos em destaque</strong></em> logo abaixo!</p>
-  <p>🏡 Resido em <em>Aracaju, Sergipe, Brasil</em></p>
 </div>
 
 ##
