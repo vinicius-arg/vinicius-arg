@@ -1,18 +1,18 @@
-## Oi, me chamo Vinícius :))
-### Seja bem-vind@ ao meu GitHub!! 🤗🤝
+## Oi, me chamo Vinícius
+### Seja bem-vind@ ao meu GitHub!! 🤝
 
 <div>
-  <p>👨‍🎓💻 Atualmente curso <em><strong>Engenharia de Computação</strong></em> na Universidade Federal de Sergipe e estou no <em><strong>Segundo Período</strong></em></p>
+  <p>👨‍🎓💻 Atualmente curso <em><strong>Engenharia de Computação</strong></em> na Universidade Federal de Sergipe</p>
   <p>🪐 Autodidata em <em><strong>Desenvolvimento Web</strong></em> e aspirante ao título de <em>Desenvolvedor Full Stack</em> (tá quase)</p>
   <p>📚☕️ Aprimoro minhas habilidades por meio da realização de projetos que comito periodicamente neste perfil. Não deixe de conferir meus repositórios e principalmente os <em><strong>projetos em destaque</strong></em> logo abaixo!</p>
-  <p>🏡 Resido em <em>São Cristóvão, Sergipe, Brasil</em></p>
+  <p>🏡 Resido em <em>Aracaju, Sergipe, Brasil</em></p>
 </div>
 
 ##
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinicius-arg&show_icons=true&theme=midnight-purple&hide_border=true" width="405px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-arg&layout=compact&theme=midnight-purple&hide_border=true" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinicius-arg&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" alt="vinicius-arg" width="405px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinicius-arg&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true" alt="vinicius-arg" width="400px"/>
 </div>
 
 ###### Hard Skills
