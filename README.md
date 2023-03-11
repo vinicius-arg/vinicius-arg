@@ -11,7 +11,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vinicius-arg&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" alt="vinicius-arg" width="405px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinicius-arg&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true" alt="vinicius-arg" width="360px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinicius-arg&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true" alt="vinicius-arg" width="310px"/>
 </div>
 
 ###### Hard Skills
