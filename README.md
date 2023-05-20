@@ -14,18 +14,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinicius-arg&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true" alt="vinicius-arg" width="310px"/>
 </div>
 
-###### Hard Skills
+#### Tecnologias/ferramentas
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="45px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="45px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="45px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="45px" />
+  <img src="https://img.shields.io/static/v1?label=&message=HTML&color=orange&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?label=&message=CSS&color=blue&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?label=&message=JAVASCRIPT&color=yellow&style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?label=&message=NODE.JS&color=darkgreen&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?label=&message=EXPRESS&color=black&style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?label=&message=MONGODB&color=green&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
-###### Contato
+#### Contato
 
 <div>
   <a href="mailto:j.vinicius.arg@gmail.com" target="_blank">
