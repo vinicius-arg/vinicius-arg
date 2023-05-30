@@ -1,17 +1,16 @@
-## Oi, me chamo Vinícius
-### Seja bem-vind@ ao meu GitHub!! 🤝
+## Seja bem-vind@ ao meu GitHub!!
 
-<div>
-  <p>👨‍🎓💻 Atualmente curso <em><strong>Engenharia de Computação</strong></em> na Universidade Federal de Sergipe</p>
-  <p>🪐 Autodidata em <em><strong>Desenvolvimento Web</strong></em> e aspirante ao título de <em>Desenvolvedor Full Stack</em> (tá quase)</p>
-  <p>📚☕️ Aprimoro minhas habilidades por meio da realização de projetos que comito periodicamente neste perfil. Não deixe de conferir meus repositórios e principalmente os <em><strong>projetos em destaque</strong></em> logo abaixo!</p>
-</div>
+Me chamo **Vinícius**, atualmente tenho interesse em *desenvolvimento web/desktop* e  *computação de baixo nível*.
+
+Gosto de desafios que me façam superar os própiros limites!  🪐
+
+Além disso, complemento meus estudos com alguns projetos que comito neste perfil. Os repositórios e ***pins em destaque*** estão logo abaixo! 📚☕️
 
 ##
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinicius-arg&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" alt="vinicius-arg" width="405px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinicius-arg&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true" alt="vinicius-arg" width="310px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vinicius-arg&show_icons=true&locale=en&theme=radical&hide_border=true" alt="vinicius-arg" width="460px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinicius-arg&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="vinicius-arg" width="350px"/>
 </div>
 
 #### Tecnologias/ferramentas
@@ -19,10 +18,13 @@
 <div>
   <img src="https://img.shields.io/static/v1?label=&message=HTML&color=orange&style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/static/v1?label=&message=CSS&color=blue&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/static/v1?label=&message=JAVASCRIPT&color=yellow&style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/static/v1?label=&message=NODE.JS&color=darkgreen&style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/static/v1?label=&message=EXPRESS&color=black&style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/static/v1?label=&message=MONGODB&color=green&style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=yellow&style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Node.js&color=darkgreen&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Express&color=black&style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Python&color=yellow&style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Mongodb&color=black&style=for-the-badge&logo=mongodb&logoColor=darkgreen"/>
+  <img src="https://img.shields.io/static/v1?label=&message=C language&color=gray&style=for-the-badge&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Visual Studio Code&color=blue&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </div>
 
 #### Contato
