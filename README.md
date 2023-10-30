@@ -1,10 +1,7 @@
-## Seja bem-vind@ ao meu GitHub!!
+## Seja bem-vind@ ao meu GitHub!
 
-Me chamo **Vinícius**, atualmente tenho interesse em *desenvolvimento web/desktop* e  *computação de baixo nível*.
-
-Gosto de desafios que me façam superar os própiros limites!  🪐
-
-Além disso, complemento meus estudos com alguns projetos que comito neste perfil. Os repositórios e ***pins em destaque*** estão logo abaixo! 📚☕️
+Atualmente possuo interesse em *desenvolvimento web/desktop* e *computação de baixo nível*.
+Complemento meus estudos com alguns projetos que comito neste perfil; os repositórios e ***pins em destaque*** estão logo abaixo. 📚☕️
 
 ##
 
@@ -33,7 +30,7 @@ Além disso, complemento meus estudos com alguns projetos que comito neste perfi
   <a href="mailto:j.vinicius.arg@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/vinicius-arg/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
