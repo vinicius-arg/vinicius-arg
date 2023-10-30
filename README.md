@@ -1,8 +1,8 @@
 ## Seja bem-vind@ ao meu GitHub!
 
 <p>
-  Atualmente possuo interesse em *desenvolvimento web/desktop* e *computação de baixo nível*.<br>
-  Complemento meus estudos com alguns projetos que comito neste perfil; os repositórios e ***pins em destaque*** estão logo abaixo. 📚☕️
+  Atualmente possuo interesse em <strong>desenvolvimento web/desktop</strong> e <strong>computação de baixo nível</strong>.<br>
+  Complemento meus estudos com alguns projetos que comito neste perfil; os repositórios e <em>pins em destaque</em> estão logo abaixo. 📚☕️
 </p>
 
 ##
