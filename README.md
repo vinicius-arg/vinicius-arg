@@ -1,16 +1,14 @@
 ## Seja bem-vind@ ao meu GitHub!
 
-<p>
-  Atualmente possuo interesse em <strong>desenvolvimento web/desktop</strong> e <strong>computação de baixo nível</strong>.<br>
-  Complemento meus estudos com alguns projetos que comito neste perfil; os repositórios e <em>pins em destaque</em> estão logo abaixo. 📚☕️
-</p>
-
-##
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vinicius-arg&show_icons=true&locale=en&theme=radical&hide_border=true" alt="vinicius-arg" width="460px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinicius-arg&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="vinicius-arg" width="350px"/>
 </div>
+
+<ul>
+  <li>Atualmente possuo interesse em <strong>desenvolvimento web/desktop</strong> e <strong>computação de baixo nível</strong>.</li>
+  <li>Complemento meus estudos com alguns projetos que comito neste perfil; os repositórios e <em>pins em destaque</em> estão logo abaixo! ☕️</li>
+</ul>
 
 #### Tecnologias/ferramentas
 
