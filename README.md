@@ -1,4 +1,4 @@
-## Seja bem-vind@ ao meu GitHub!
+## Olá, seja bem-vind@ ao meu GitHub!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vinicius-arg&show_icons=true&locale=en&theme=radical&hide_border=true" alt="vinicius-arg" width="460px"/>
@@ -6,11 +6,11 @@
 </div>
 
 <ul>
-  <li>Atualmente possuo interesse em <strong>desenvolvimento web/desktop</strong> e <strong>computação de baixo nível</strong>.</li>
-  <li>Complemento meus estudos com alguns projetos que comito neste perfil; os repositórios e <em>pins em destaque</em> estão logo abaixo! ☕️</li>
+  <li>Dedico-me aos estudos em desenvolvimento web e busco obter experiência na área. Além da criação de sites, tenho interesse em algoritmos, computação de baixo nível e desenvolvimento de jogos.</li>
+  <li>Aqui é onde guardo meus projetos pessoais e acadêmicos, sinta-se à vontade para dar uma olhada! </li>
 </ul>
 
-#### Tecnologias/ferramentas
+#### Tecnologias que costumo utilizar
 
 <div>
   <img src="https://img.shields.io/static/v1?label=&message=HTML&color=orange&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/static/v1?label=&message=Visual Studio Code&color=blue&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </div>
 
-#### Contato
+#### Caso queira falar comigo
 
 <div>
   <a href="mailto:j.vinicius.arg@gmail.com" target="_blank">
