@@ -1,36 +1,17 @@
-## Olá, seja bem-vind@ ao meu GitHub!
+## Greetings! 🍂
+Welcome to my code page, feel free to explore.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinicius-arg&show_icons=true&locale=en&theme=radical&hide_border=true" alt="vinicius-arg" width="460px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinicius-arg&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="vinicius-arg" width="350px"/>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=vinicius-arg&theme=tokyonight&mode=weekly&hide_border=true)](https://git.io/streak-stats)
 
-<ul>
-  <li>Dedico-me aos estudos em desenvolvimento web e busco obter experiência na área. Além da criação de sites, tenho interesse em algoritmos, computação de baixo nível e desenvolvimento de jogos.</li>
-  <li>Aqui é onde guardo meus projetos pessoais e acadêmicos, sinta-se à vontade para dar uma olhada! </li>
-</ul>
-
-#### Tecnologias que costumo utilizar
-
-<div>
-  <img src="https://img.shields.io/static/v1?label=&message=HTML&color=orange&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/static/v1?label=&message=CSS&color=blue&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=yellow&style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Node.js&color=darkgreen&style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Express&color=black&style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Python&color=yellow&style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Mongodb&color=black&style=for-the-badge&logo=mongodb&logoColor=darkgreen"/>
-  <img src="https://img.shields.io/static/v1?label=&message=C language&color=gray&style=for-the-badge&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Visual Studio Code&color=blue&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</div>
-
-#### Caso queira falar comigo
-
-<div>
-  <a href="mailto:j.vinicius.arg@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/vinicius-arg/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+#### Technologies I'm exploring
+<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
+<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
+<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
+<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
+<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
+<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code>
+<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code>
+<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
+<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code>
+<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
+<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
