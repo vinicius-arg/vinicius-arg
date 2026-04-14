@@ -1,6 +1,5 @@
 ```c
 #include <stdio.h>
-#include <stdlib.h>
 #include "person.h"
 
 void person_init(Person* me)
