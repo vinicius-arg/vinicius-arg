@@ -1,8 +1,39 @@
-## Greetings! 🍂
-Welcome to my code page, feel free to explore.
+```c
+#include <stdio.h>
+#include <stdlib.h>
+#include "person.h"
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vinicius-arg&theme=tokyonight&mode=weekly&hide_border=true)](https://git.io/streak-stats)
+void person_init(Person* me)
+{
+  // Basics
+  me->name = "Vinicius";
+  me->birthday = "22-08-2004";
+  me->education = "Computer Engineering at UFS";
+  me->os = "Linux Mint 22.1 x86_64"
 
-#### Technologies I'm exploring
+  me->programming_languages = (char*[]){ "C/Cpp", "Java", "Python", "Verilog" };
+  me->web_stack = (char*[]){ "HTML/CSS", "JavaScript", "React", "Node", "Express", "Mongo", "Postgre" };
+  me->speaking_languages = (char*[]){ "Portuguese", "English" };
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,c,cpp,cs,python,mongodb,arduino,java)](https://skillicons.dev)
+  me->hobbies = (char*[]){ "Guitar", "Cooking", "Everson Zoio" };
+
+  // Contact
+  me->academic_email = "vinicius.argolo@dcomp.ufs.br";
+  me->work_email = "j.vinicius.arg@gmail.com";  
+  me->linkedin = "linkedin.com/in/vinicius-arg";
+
+  // Other
+  me->current_focus = "Embedded Systems and IoT";
+  me->assistant = "Sarah 🐈"; // Debugging partner;
+}
+
+int main()
+{
+  Person me;
+  person_init(&me);
+
+  printf("Welcome to my profile!\n");
+
+  return 0;
+}
+```
