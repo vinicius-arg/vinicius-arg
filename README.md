@@ -4,25 +4,18 @@
 
 void person_init(Person* me)
 {
-  // Basics
   me->name = "Vinicius";
-  me->birthday = "22-08-2004";
   me->education = "Computer Engineering at UFS";
   me->os = "Linux Mint 22.1 x86_64";
 
-  me->programming_languages = (char*[]){ "C/Cpp", "Java", "Python", "Verilog" };
-  me->web_stack = (char*[]){ "HTML/CSS", "JavaScript", "React", "Node", "Express", "Mongo", "Postgre" };
-  me->speaking_languages = (char*[]){ "Portuguese", "English" };
+  me->main_interests = (char*[]){
+      "Computer Architecture",
+      "Low-level Programming",
+      "Embedded Systems"
+  };
 
+  me->additional_exp = (char*[]){ "Web Development" };
   me->hobbies = (char*[]){ "Guitar", "Cooking", "Everson Zoio" };
-
-  // Contact
-  me->academic_email = "vinicius.argolo@dcomp.ufs.br";
-  me->work_email = "j.vinicius.arg@gmail.com";  
-  me->linkedin = "linkedin.com/in/vinicius-arg";
-
-  // Other
-  me->current_focus = "Embedded Systems and IoT";
   me->assistant = "Sarah 🐈"; // Debugging partner;
 }
 
@@ -36,3 +29,13 @@ int main()
   return 0;
 }
 ```
+
+### Brief Description
+
+I enjoy low-level programming and most of my projects are focused on it. They're available in the pinned repos below, feel free to explore them.
+
+### Contacts
+
+Want to get in touch? Send me an e-mail by clicking [here](mailto:vinicius.argolo@dcomp.ufs.br).
+
+(There's also [my Linkedin](https://www.linkedin.com/in/vinicius-arg), but it's still a little empty for now.)
